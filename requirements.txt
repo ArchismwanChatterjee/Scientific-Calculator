@@ -1,6 +1,5 @@
 streamlit
 numpy
-math
 matplotlib
 streamlit-matplotlib
 pillow
