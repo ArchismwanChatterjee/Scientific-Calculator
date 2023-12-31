@@ -24,6 +24,8 @@ def perform_trigonometry(operation, angle_degrees):
 
 def trigo_calculator():
     
+    st.image("trigo.gif")
+    
     st.title("Trigonometric Calculator")
 
     angle = st.number_input('Enter Angle (degrees)', value=0.0)
