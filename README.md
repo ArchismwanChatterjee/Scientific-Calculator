@@ -7,7 +7,7 @@
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://makeapullrequest.com)
 ![License](https://badgen.net/github/license/micromatch/micromatch)
 
-Scientific Calculator is used to basically perform several simple,mathematical,matrix/vector and trigonometric operations.
+Scientific Calculator is used to basically perform several simple, mathematical, matrix/vector and trigonometric operations.And also visualize the trigonometric curves.
 
 Click [here](https://scientific-calculator.streamlit.app/) to try out
 
@@ -17,6 +17,9 @@ Click [here](https://scientific-calculator.streamlit.app/) to try out
 3. Mathermatical calculator performs math operations like logarithm, exponents, root and more ...
 4. Matrix calculator performs matrix operations like dot & cross product, inverse, rank and more ...
 5. Trigonometric calculator gives the value for sin θ, cos θ, tan θ,... and also visualize the curve
+
+## Demo:
+https://github.com/ArchismwanChatterjee/calculator/assets/115975340/f321a5ca-bf8f-45b0-9de6-53a30b81e51f
 
 ## Installation:
 
