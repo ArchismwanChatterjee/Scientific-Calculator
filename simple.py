@@ -2,6 +2,9 @@ import streamlit as st
 
 
 def simple_calculator():
+    
+    st.image("simple.gif")
+
     st.title("Simple Calculator")
     num1 = st.number_input("Enter the first number:")
     num2 = st.number_input("Enter the second number:")
