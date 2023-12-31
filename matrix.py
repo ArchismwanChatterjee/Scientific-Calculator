@@ -13,6 +13,8 @@ def parse_matrix(matrix_text):
 def matrix_calculator():
 # Streamlit app
     
+    st.image("matrix.png",width=50)
+
     st.title("Matrix Calculator")
 
 
