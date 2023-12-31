@@ -3,6 +3,9 @@ import streamlit as st
 import math
 
 def math_calculator():
+    
+    st.image("math.gif")
+
     st.title("Mathematical Calculator")
 
     num = st.number_input("Enter the number(n): ")
